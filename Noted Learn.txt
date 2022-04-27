@@ -1,0 +1,48 @@
+English version-
+About BA:
+- Write PYC 
+- Write flow chart of requirement 
+
+
+About testing program upgrade:
+- read and understand 
+- test UI ( interface ) 
+- Check data on Database 
+- Check log ( Xshell)
+	+ Xshell---> check log: 
+	- ls : Show all folder
+	- cd : into folder ( what the folder that want into) 
+	- zless : show zip
+-Check SMS( when do transaction successfully, it require to have SMS
+
+Vietnam-version-
+Testing? --> 
+- Tìm lỗi, ngăn chặn được những rủi ro thềm ẩn 
+- đảm bảo chất lượng sản phẩm deliver cho khách hàng 
+- giảm thiểu chi phí cho các giai đoạn 
+
+Ứng dụng testing?--> 
+- Môi trường website
+- Môi trường Moblie app 
+- Môi trường API
+Vai trò & nhiệm vụ testing 
+- Quan trọng nhất là tìm lỗi xảy ra , vì ngăn ngừa còn quan trọng hơn tìm lỗi 
+-Đánh giá và đảm bảo chất lượng của sản phẩm 
+- tham gia và đưa ý tưởng cải thiện sản phẩm 
+- đánh gì , phân tích & làm rõ yêu cầu của khách hàng với PM, BA.
+
+			Quy trình thiết kế phần mềm:	--> Planing-> analysis-> design-> implemention-> testing with integration-> Maintenace.				
+			- Requirement 	(xác định yêu cầu và giải pháp) 
+			- Design 	(Thiết kế phầm mềm)
+			- Development 	( lặp trình phầm mềm )
+			- Testing	( Kiểm thử )
+			- Maintenace 	( Triển khai sản phẩm ) 
+----------------------------------------------------------***---------------------------------------------------
+
+Post, get: dùng gọi AIP
+API: là nó cung cấp chức gì đó. 
+Ví dụ: Gọi AIP xem đồ ăn thì nó trả về danh sách đồ ăn của nhà hàng.
+English:
+Post, get: use AIP call
+API: is it provides something functionality. For example: Call AIP to see the food, it returns the restaurant's food list.
+

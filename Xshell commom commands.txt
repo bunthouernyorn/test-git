@@ -1,0 +1,39 @@
+About Ls:
+# ls- Lists the files
+#  Show current catalog file --> Hiển thị tệp danh mục hiện tại
+ls
+#  Give a long list of all files in the current directory , Include... Starting with a period “ hide ” file  
+ls -la
+#  List the current directory with letters a All the documents at the beginning  
+ls a*
+#  Give the current directory with .doc All the files at the end  
+ls -l *.doc
+
+About cd:
+# cd- Change directory
+#  Switch to home directory --> Chuyển sang thư mục chính 
+cd 
+#  Switch to home directory  
+cd ~ 
+#  Switch to directory /tmp 
+cd /tmp
+#  Switch to... In the current directory dir Catalog  
+cd dir
+#  Switch to the root directory  
+cd /
+#  Switch to the upper directory  -
+cd ..
+#  Switch to the upper directory  
+cd ../..
+#  Switch to user directory , For example root user , Then switch to /root Next 
+cd 
+
+------------------------------------------------
+How to use command ssh  
+If only check information, we need know these simple command:
+- ls : Show all folder
+- cd wsMerchant : Go into folder wsMerchant
+- cd: go back
+- cd wsMerchant/logs : go into folder logs 
+-zless wsMerchangt.log: Read/show all information in file wsMerchants.log
+- 

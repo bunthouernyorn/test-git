@@ -1,0 +1,18 @@
+About BA:
+- Write PYC 
+- Write flow chart of requirement
+
+Tiếng việt:
+ BA:
+- phải hiểu chức năng yêu cầu 
+- về bán hàng , Qly bán hàng như nào? 
+- Nói chuyện với Developer
+BA--> Không cần code ( Don't need know about coding) 
+BA--> learn UI( interface), UX
+BA--> Nhiệm vụ 
+- Hiểu khách hàng cần chức năng nào?
+- Cần gặp khách hàng --> yêu cầu cần tính năng gì?
+- Nói chuyện với developer--> Để triển khai
+
+==> Nên học thêm về design  
+
